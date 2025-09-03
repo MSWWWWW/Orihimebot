@@ -1,1 +1,6 @@
-Hello World
+{
+  "op": 0,
+  "d": {},
+  "s": 42,
+  "t": "GATEWAY_EVENT_NAME"
+}
